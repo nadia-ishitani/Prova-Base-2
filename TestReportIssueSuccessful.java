@@ -29,9 +29,6 @@ public class TestReportIssueSuccessful {
 
 	//Testar mensagem "Operation successful."
 		
-		
-	private WebDriver driver;
-		
 	@Before
 	public void inicializa() {
 		
